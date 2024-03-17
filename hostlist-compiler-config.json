@@ -274,16 +274,6 @@
       ]
     },
     {
-      "name": "Lightswitch05 - Facebook",
-      "source": "https://www.github.developerdan.com/hosts/lists/facebook-extended.txt",
-      "type": "hosts",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
       "name": "Lightswitch05 - AMP Hosts",
       "source": "https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt",
       "type": "hosts",
